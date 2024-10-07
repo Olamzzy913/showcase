@@ -474,7 +474,7 @@ const Service = () => {
 
         <div className="w-full h-[18rem] md:h-[40rem] mb-16 z-30 bg-[rgb(10,12,27)] border-2 border-[#4A91E5] rounded-[.5rem] shadow-md shadow-[rgba(254,255,255,0.28)]">
           <Image
-            src="/images/Global.png"
+            src="/images/globe.jpg"
             width={100}
             height={640}
             className="w-full h-full"
